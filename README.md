@@ -14,6 +14,11 @@ This analysis was developed using Python 3.9. To install all dependencies run.
 
 `pip install -r requirements`
 
+## Data
+This analysis relies on two performances in raga Bhairavi from the Carnatic corpus of the Saraga dataset - Kamakshi (composed by Syama Sastri), performed by Sanjay Subrahmanyan, and Raksha Bettare (composed by Tyagaraja), performed by Shruthi S. Bhat. These performances are not provided in this repository and must be accessed via the (Saraga dataset)[https://mtg.github.io/saraga/]. 
+
+The two performances should be stored at `data/audio/kamakshi.wav` and `data/audio/raksha_bettare.wav`.
+
 ## Reproducing Presented Analysis
 
 The scripts to reproduce this analysis can be found in [scripts/](scripts/). A further README is found in that directory with more detailed instructions.
