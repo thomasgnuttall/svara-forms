@@ -21,7 +21,13 @@ The two audios corresponding to these performances should be stored at `data/aud
 
 ## Reproducing Presented Analysis
 
-The scripts to reproduce this analysis can be found in [scripts/](scripts/). A further README is found in that directory with more detailed instructions.
+The scripts to reproduce this analysis can be found in [scripts/pipeline](scripts/pipeline). These scripts should be ran from the home directory e.g...
+
+```
+python scripts/pipeline/1_extract_pitch_track.py
+```
+
+A further README is found in that directory with more detailed instructions.
 
 ## Clustering Results
 
