@@ -1,8 +1,8 @@
-## Svara-Form Cluster Ri
+## Svara-Form Clusters for Ri
 
 The descriptions below describe the melodic movement of the svara-form in terms of the svara positions traversed by the melody. In performance, these are usually joined by a sliding motion. To make these descriptions comprehensible for a wide audience, simple language rather than gamaka terms are used to describe the melodic movement. Underscore (_) is used to represent a held pitch position. The svara positions are represented by the first letter of the syllable (p = pa). Both d1 and d2 exist in this raga, and so are differentiated here. 
 
-| **Cluster** | **Svara Form **                        | **Notes**                                                                                                                                                                                                                               |
+| **Cluster** | **Svara Form**                        | **Notes**                                                                                                                                                                                                                               |
 |-------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | cluster_0   | (d2)sd2r: sometimes higher at the end  |                                                                                                                                                                                                                                         |
 | cluster_1   | r_(g)                                  |                                                                                                                                                                                                                                         |
