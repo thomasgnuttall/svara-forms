@@ -69,8 +69,8 @@ sdg
 
 
 <div align="left">
-  <img src="cluster_5/kamakshi_359.png" alt="ga cluster 5" />
-  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+  <img src="cluster_5/raksha_bettare_359.png" alt="ga cluster 5" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
 </div>
 
 
