@@ -17,3 +17,103 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_8   | pmg(p)                                | the last pa or flick up is sometimes seen in the pitch curve and sometimes not, but they all sound the same |
 | cluster_9   | rmr                                   |                                                                                                             |
 | cluster_10  | m_r: long ma and short ri             |                                                                                                             |
+
+## Examples
+
+An example from each cluster, please explore the folders above for more examples and accompanying audio
+
+### Cluster 0
+
+
+<div align="left">
+  <img src="cluster_0/kamakshi_1034.png" alt="ga cluster 0" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 1
+
+
+<div align="left">
+  <img src="cluster_1/raksha_bettare_267.png" alt="ga cluster 1" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 2
+
+
+
+<div align="left">
+  <img src="cluster_2/kamakshi_1341.png" alt="ga cluster 2" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 3
+
+
+
+<div align="left">
+  <img src="cluster_3/raksha_bettare_289.png" alt="ga cluster 3" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 4
+
+
+<div align="left">
+  <img src="cluster_4/kamakshi_736.png" alt="ga cluster 4" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 5
+
+
+<div align="left">
+  <img src="cluster_5/kamakshi_971.png" alt="ga cluster 5" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+### Cluster 6
+
+
+<div align="left">
+  <img src="cluster_6/kamakshi_113.png" alt="ga cluster 6" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 7
+
+
+<div align="left">
+  <img src="cluster_7/kamakshi_113.png" alt="ga cluster 7" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 8
+
+
+<div align="left">
+  <img src="cluster_8/kamakshi_113.png" alt="ga cluster 8" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+### Cluster 9
+
+<div align="left">
+  <img src="cluster_9/kamakshi_113.png" alt="ga cluster 9" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+
+### Cluster 10
+
+
+<div align="left">
+  <img src="cluster_10/kamakshi_113.png" alt="ga cluster 10" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+
