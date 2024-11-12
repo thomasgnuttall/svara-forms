@@ -1,4 +1,4 @@
-Navigate to other clusters: [sa](../sa)
+Navigate to other clusters: [sa](../sa), [ri](../ri), [ga](../ga), [ma](../ma), [pa](../pa), [dha](../dha), [ni](../ni)
 
 ## Svara-Form Clusters for Ri
 
