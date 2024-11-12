@@ -33,6 +33,7 @@ sdg
 
 ### Cluster 1
 
+s_m: long sa and thrown up at the end.
 
 <div align="left">
   <img src="cluster_1/raksha_bettare_133.png" alt="ga cluster 1" />
@@ -41,7 +42,7 @@ sdg
 
 ### Cluster 2
 
-
+rg
 
 <div align="left">
   <img src="cluster_2/kamakshi_529.png" alt="ga cluster 2" />
@@ -50,7 +51,7 @@ sdg
 
 ### Cluster 3
 
-
+r_mrmrm
 
 <div align="left">
   <img src="cluster_3/raksha_bettare_138.png" alt="ga cluster 3" />
@@ -59,6 +60,7 @@ sdg
 
 ### Cluster 4
 
+rmrmrmr
 
 <div align="left">
   <img src="cluster_4/kamakshi_951.png" alt="ga cluster 4" />
@@ -67,6 +69,7 @@ sdg
 
 ### Cluster 5
 
+mrmr(p)	
 
 <div align="left">
   <img src="cluster_5/raksha_bettare_359.png" alt="ga cluster 5" />
@@ -76,6 +79,7 @@ sdg
 
 ### Cluster 6
 
+rmrmr
 
 <div align="left">
   <img src="cluster_6/kamakshi_247.png" alt="ga cluster 6" />
@@ -84,6 +88,7 @@ sdg
 
 ### Cluster 7
 
+mg_(m). The last ma is sometimes seen in the pitch curve and sometimes not, but they all sound the same
 
 <div align="left">
   <img src="cluster_7/kamakshi_1021.png" alt="ga cluster 7" />
@@ -92,6 +97,7 @@ sdg
 
 ### Cluster 8
 
+pmg(p). The last pa or flick up is sometimes seen in the pitch curve and sometimes not, but they all sound the same.
 
 <div align="left">
   <img src="cluster_8/kamakshi_1105.png" alt="ga cluster 8" />
@@ -101,6 +107,8 @@ sdg
 
 ### Cluster 9
 
+rmr
+
 <div align="left">
   <img src="cluster_9/raksha_bettare_58.png" alt="ga cluster 9" />
   <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
@@ -109,6 +117,7 @@ sdg
 
 ### Cluster 10
 
+m_r: long ma and short ri	
 
 <div align="left">
   <img src="cluster_10/kamakshi_1324.png" alt="ga cluster 10" />
