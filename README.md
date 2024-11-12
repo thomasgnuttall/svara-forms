@@ -25,7 +25,7 @@ The scripts to reproduce this analysis can be found in [scripts/pipeline](script
 python scripts/pipeline/1_extract_pitch_track.py
 ```
 
-A further README is found in that directory with more detailed instructions.
+A further README is found in that directory with more detailed instructions and an overview of results.
 
 ## Clustering Results
 
