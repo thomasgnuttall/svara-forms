@@ -54,7 +54,7 @@ rg
 r_mrmrm
 
 <div align="left">
-  <img src="cluster_3/raksha_bettare_138.png" alt="ga cluster 3" />
+  <img src="cluster_3/raksha_bettare_543.png" alt="ga cluster 3" />
   <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
 </div>
 
