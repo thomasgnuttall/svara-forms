@@ -51,5 +51,5 @@ Whilst the peaks in Fig. 3 indicate that there are a number of svaras that exist
 
 <div align="left">
   <img src="../../results/final/analysis/duration_svara.png" alt="Melodic Context Results" />
-  <p><em>Fig. 2 - Difference in duration between svara pairs in the same melodic context and same svara-form group, compared to those in the same melodic context but different svara-form groups</em></p>
+  <p><em>Fig. 3 - ϵ2 for Kruskal–Wallis test of dependency between svara-form group allocation and svara duration (all p < 0.001). The number of degrees of freedom for each test is indicated alongside the x-axis label for each svara. The average ϵ2 across all svaras is 0.52</em></p>
 </div>
