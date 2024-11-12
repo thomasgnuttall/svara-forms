@@ -19,3 +19,135 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_10  | d2sd2                    |                                                                                              |
 | cluster_11  | sd2r                     |                                                                                              |
 | cluster_12  | d2sn_sd2                 |                                                                                              |
+
+## Examples
+
+An example from each cluster, please explore the folders above for more examples and accompanying audio
+
+### Cluster 0
+
+p_n
+
+<div align="left">
+  <img src="cluster_0/kamakshi_456.png" alt="ni cluster 0" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 1
+
+r_(n) and r(n).	The drop down to ni at the end is sometimes not seen in the pitch curve, but all are audible.
+
+<div align="left">
+  <img src="cluster_1/raksha_bettare_107.png" alt="ni cluster 1" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 2
+
+d2_(r)
+
+<div align="left">
+  <img src="cluster_2/kamakshi_1417.png" alt="ni cluster 2" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 3
+
+s_d2
+
+<div align="left">
+  <img src="cluster_3/raksha_bettare_160.png" alt="ni cluster 3" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 4
+
+d2sd2s
+
+<div align="left">
+  <img src="cluster_4/kamakshi_217.png" alt="ni cluster 4" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 5
+
+rsd2s
+
+<div align="left">
+  <img src="cluster_5/raksha_bettare_135.png" alt="ni cluster 5" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+
+### Cluster 6
+
+sd2s
+
+<div align="left">
+  <img src="cluster_6/raksha_bettare_434.png" alt="ni cluster 6" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 7
+
+d2sd2sd2 and d2sd2sd2sd2
+
+<div align="left">
+  <img src="cluster_7/kamakshi_178.png" alt="ni cluster 7" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 8
+
+srD2(s) and srsD2s	
+
+<div align="left">
+  <img src="cluster_8/kamakshi_1082.png" alt="ni cluster 8" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+### Cluster 9
+
+d2_(s). The flick up to sa is often not seen in the pitch plots, but it is audible.
+
+<div align="left">
+  <img src="cluster_9/raksha_bettare_251.png" alt="ni cluster 9" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+
+### Cluster 10
+
+d2sd2
+
+<div align="left">
+  <img src="cluster_10/raksha_bettare_203.png" alt="ni cluster 10" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+
+### Cluster 11
+
+sd2r
+
+<div align="left">
+  <img src="cluster_11/raksha_bettare_377.png" alt="ni cluster 11" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+
+### Cluster 12
+
+d2sn_sd2
+
+<div align="left">
+  <img src="cluster_12/kamakshi_1395.png" alt="ni cluster 12" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+
+
+
+
