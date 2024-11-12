@@ -17,3 +17,115 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_8   | p: static                                                 |                                                         |
 | cluster_9   | d1: with a "shaking" movement                             |                                                         |
 | cluster_10  | sd1: long slide up (jaru) from sa below                   |                                                         |
+
+## Examples
+
+An example from each cluster, please explore the folders above for more examples and accompanying audio
+
+### Cluster 0
+
+psd2. Two examples have a slight variation: pd2sd2
+
+<div align="left">
+  <img src="cluster_0/raksha_bettare_231.png" alt="dha cluster 0" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 1
+
+d2pd2
+
+<div align="left">
+  <img src="cluster_1/kamakshi_1334.png" alt="dha cluster 1" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 2
+
+spd1. Some examples do not quite reach pa before moving to d1.
+
+<div align="left">
+  <img src="cluster_2/kamakshi_1059.png" alt="dha cluster 2" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 3
+
+d2
+
+<div align="left">
+  <img src="cluster_3/kamakshi_1377.png" alt="dha cluster 3" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 4
+
+d1
+
+<div align="left">
+  <img src="cluster_4/kamakshi_330.png" alt="dha cluster 4" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 5
+
+p_d1: long pa at start and short d1 at end	
+
+<div align="left">
+  <img src="cluster_5/kamakshi_603.png" alt="dha cluster 5" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+### Cluster 6
+
+pd2: long or short pa at start, and short d2 at end	
+
+<div align="left">
+  <img src="cluster_6/kamakshi_403.png" alt="dha cluster 6" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 7
+
+d1pd1 or p_d1: short dp or pa at start and long d1 at end	
+
+<div align="left">
+  <img src="cluster_7/raksha_bettare_168.png" alt="dha cluster 7" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 8
+
+p: static	
+
+<div align="left">
+  <img src="cluster_8/kamakshi_1375.png" alt="dha cluster 8" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+### Cluster 9
+
+d1: with a "shaking" movement	
+
+<div align="left">
+  <img src="cluster_9/kamakshi_426.png" alt="dha cluster 9" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+### Cluster 10
+
+sd1: long slide up (jaru) from sa below	
+
+<div align="left">
+  <img src="cluster_10/kamakshi_929.png" alt="dha cluster 10" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+
+
+
+
+
