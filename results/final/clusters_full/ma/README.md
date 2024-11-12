@@ -50,7 +50,7 @@ m_n: long ma with short ni at end
 mr(p) or mr(m). The flick up to ma or pa at the end is sometimes seen in the pitch curve and sometimes not, but all are audible
 
 <div align="left">
-  <img src="cluster_2/raksha_bettare_1149.png" alt="ma cluster 2" />
+  <img src="cluster_2/kamakshi_1149.png" alt="ma cluster 2" />
   <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 
