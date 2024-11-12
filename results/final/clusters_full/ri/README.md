@@ -43,7 +43,7 @@ r_(g)
 gsr_
 
 <div align="left">
-  <img src="cluster_2/raksha_bettare_1341.png" alt="ri cluster 2" />
+  <img src="cluster_2/kamakshi_1341.png" alt="ri cluster 2" />
   <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 
@@ -52,7 +52,7 @@ gsr_
 grg
 
 <div align="left">
-  <img src="cluster_3/kamakshi_289.png" alt="ri cluster 3" />
+  <img src="cluster_3/raksha_bettare_289.png" alt="ri cluster 3" />
   <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
 </div>
 
