@@ -2,9 +2,7 @@
 
 This repository contains the accompanying code and results for the paper
 
-```
-Thomas Nuttall, Xavier Serra, Lara Pearson. "Svara-Forms in Carnatic Music: Contextual Influences on the Performance of Svara".
-```
+```Thomas Nuttall, Xavier Serra, Lara Pearson. "Svara-Forms in Carnatic Music: Contextual Influences on the Performance of Svara".```
 
 Presented to the Workshop on Indian Music Analysis and Generative Applications (WIMAGA), a Satellite Workshop of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025).
 
