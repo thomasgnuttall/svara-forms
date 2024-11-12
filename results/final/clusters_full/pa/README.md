@@ -14,3 +14,86 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_5   | d1mp                                    |           |
 | cluster_6   | d1p                                     |           |
 | cluster_7   | p                                       |           |
+
+## Examples
+
+An example from each cluster, please explore the folders above for more examples and accompanying audio
+
+### Cluster 0
+
+mrp
+
+<div align="left">
+  <img src="cluster_0/raksha_bettare_77.png" alt="pa cluster 0" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 1
+
+sp_: slide up to pa from sa	
+
+<div align="left">
+  <img src="cluster_1/kamakshi_1222.png" alt="pa cluster 1" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 2
+
+pmp: sometimes goes a bit lower than ma	
+
+<div align="left">
+  <img src="cluster_2/kamakshi_1099.png" alt="pa cluster 2" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 3
+
+p_n
+
+<div align="left">
+  <img src="cluster_3/kamakshi_107.png" alt="pa cluster 3" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 4
+
+sp: slide down from sa to pa	
+
+<div align="left">
+  <img src="cluster_4/kamakshi_535.png" alt="pa cluster 4" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
+
+### Cluster 5
+
+d1mp
+
+<div align="left">
+  <img src="cluster_5/raksha_bettare_261.png" alt="pa cluster 5" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+
+### Cluster 6
+
+d1p
+
+<div align="left">
+  <img src="cluster_6/raksha_bettare_201.png" alt="pa cluster 6" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+### Cluster 7
+
+p
+
+<div align="left">
+  <img src="cluster_7/raksha_bettare_495.png" alt="pa cluster 7" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
+
+
+
+
+
+
