@@ -22,8 +22,8 @@ An example from each cluster, please explore the folders above for more examples
 d2sd2s
 
 <div align="left">
-  <img src="cluster_0/raksha_bettare_400.png" alt="sa cluster 0" />
-  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+  <img src="cluster_0/kamakshi_1142.png" alt="sa cluster 0" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 
 ### Cluster 1
@@ -40,7 +40,7 @@ p_s
 sd2s_
 
 <div align="left">
-  <img src="cluster_2/raksha_bettare_17.png" alt="sa cluster 2" />
+  <img src="cluster_2/raksha_bettare_541.png" alt="sa cluster 2" />
   <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
 </div>
 
