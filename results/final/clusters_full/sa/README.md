@@ -11,3 +11,21 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_4   | s: long and short static sa |
 | cluster_5   | s_(d2)                      |
 
+
+### Examples
+
+An example from each cluster, please explore the folders above for more examples and accompanying audio
+
+#### Cluster 0
+
+d2sd2s
+
+![Kiku](cluster_0/kamakshi_1142.png)
+*Example from Kamakshi - Sanjay Subrahmanyan*
+
+#### Cluster 1
+
+p_s
+
+![Kiku](cluster_0/kamakshi_1142.png)
+*Example from Kamakshi - Sanjay Subrahmanyan*
