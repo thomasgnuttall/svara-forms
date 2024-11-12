@@ -15,6 +15,8 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_6   | d1p                                     |           |
 | cluster_7   | p                                       |           |
 
+The full data dictionary of cluster notes is available in tsv format [here](../../svara_forms_data_dictionary.tsv)
+
 ## Examples
 
 An example from each cluster, please explore the folders above for more examples and accompanying audio

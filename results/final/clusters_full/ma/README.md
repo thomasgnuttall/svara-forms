@@ -21,7 +21,7 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_12  | pmpmn                                  |                                                                                                                 |
 | cluster_13  | d_(m)                                  |                                                                                                                 |
 | cluster_14  | pgp                                    |                                                                                                                 |
-
+The full data dictionary of cluster notes is available in tsv format [here](../../svara_forms_data_dictionary.tsv)
 
 ## Examples
 

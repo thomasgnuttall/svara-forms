@@ -14,6 +14,7 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_4   | s: long and short static sa |
 | cluster_5   | s_(d2)                      |
 
+The full data dictionary of cluster notes is available in tsv format [here](../../svara_forms_data_dictionary.tsv)
 
 ## Examples
 

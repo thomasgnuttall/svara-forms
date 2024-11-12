@@ -14,7 +14,7 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_5   | r_(s)                                  | the drop down to sa at the end is seen in the pitch curve to variable degrees but they all sound similar                                                                                                                                |
 | cluster_6   | r                                      | some of the examples with longer duration have quite a bit of vibrato and could potentially be categorized as a different svara-form; they are not separated here because they exist more on a continuum than as separable categories.  |
 
-
+The full data dictionary of cluster notes is available in tsv format [here](../../svara_forms_data_dictionary.tsv)
 
 ## Examples
 

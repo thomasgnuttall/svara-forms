@@ -18,6 +18,8 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_9   | d1: with a "shaking" movement                             |                                                         |
 | cluster_10  | sd1: long slide up (jaru) from sa below                   |                                                         |
 
+The full data dictionary of cluster notes is available in tsv format [here](../../svara_forms_data_dictionary.tsv)
+
 ## Examples
 
 An example from each cluster, please explore the folders above for more examples and accompanying audio
