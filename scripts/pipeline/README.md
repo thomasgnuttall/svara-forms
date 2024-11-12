@@ -30,7 +30,7 @@ The scripts should be ran in order from the [home directory](https://github.com/
 We ask whether the performance of a svara (its svara-form) is influenced by its surrounding melodic context, and whether that influence increases as the melodic context increases. As in [10], we compute the normalized mutual information (NMI) between svara-form group label and a series of contextual tokens extracted for each svara observation to illustrate this dependency. An NMI value of 0 indicates that the context tokens and group allocations are completely independent, and a value of 1 indicates that they are perfectly correlated.
 
 <div align="left">
-  <img src="../results/final/analysis/NMI_FULL.png" alt="Melodic Context Results" />
+  <img src="../../results/final/analysis/NMI_FULL.png" alt="Melodic Context Results" />
   <p><em>Fig. 1 - Boxplot of normalized mutual information (NMI) values for all svaras for all melodic contexts. It is important to note that the both 1 and prec 1 contexts are the same. Tests for which p < 0.001 are excluded. An NMI value of 1 indicates a one-to-one dependency, a value of 0 indicates no dependency. See Section IV-A in the original publication for further information</em></p>
 </div>
 
@@ -43,13 +43,13 @@ Fig. 1 presents the NMI results across all svaras and all context options. Those
 We investigate this possibility by comparing the difference in duration between svaras that have the same melodic context (k=5) in the same svara-form group, with the difference in duration between svaras with the same melodic context (k=5) but in different svara-form groups. Fig. 3 illustrates the distributions between these two comparison groups. Generally svaras in the same context and same svara-form group have very low variability in duration (histogram peak close to 0 in Fig. 2), with a small proportion varying in length by half a beat (histogram shoulder at 0.5). However the variability in duration between svaras in the same context but different svara-form groups is much larger, with stronger peaks at around 0.5 and 1 beats.
 
 <div align="left">
-  <img src="../results/final/analysis/duration_histogram.png" alt="Melodic Context Results" />
+  <img src="../../results/final/analysis/duration_histogram.png" alt="Melodic Context Results" />
   <p><em>Fig. 2 - Difference in duration between svara pairs in the same melodic context and same svara-form group, compared to those in the same melodic context but different svara-form groups</em></p>
 </div>
 
 Whilst the peaks in Fig. 3 indicate that there are a number of svaras that exist in the same melodic context that have significantly different durations, there are also many that have the same melodic context and very similar durations (left most peak in Fig. 3). Examining the data in detail, we note that certain svaras show a stronger relationship with duration than others. Fig. 4 shows this relationship, illustrating the effect sizes of 7 Kruskal-Wallis tests (one for each svara) to determine if there is a statistically significant differences in duration across the svara-form groups. Effect size is calculated using epsilon squared (ϵ2). We observe a strong effect (ϵ2 > 0.2) for all svaras except for ri, for which the relationship is a lot less pronounced (all p < 0.001). The average ϵ2 across all svaras is 0.52.
 
 <div align="left">
-  <img src="../results/final/analysis/duration_svara.png" alt="Melodic Context Results" />
+  <img src="../../results/final/analysis/duration_svara.png" alt="Melodic Context Results" />
   <p><em>Fig. 2 - Difference in duration between svara pairs in the same melodic context and same svara-form group, compared to those in the same melodic context but different svara-form groups</em></p>
 </div>
