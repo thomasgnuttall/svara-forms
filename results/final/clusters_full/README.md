@@ -6,10 +6,10 @@ In this folder you will find the pitch plots and audios corresponding to each of
 
 | Svara | Number Clusters |
 |-------|-----------------|
-| (Sa)[../sa]    | 6               |
-| (Ri)[../ri]    | 7               |
-| (Ga)[../ga]    | 11              |
-| (Ma)[../ma]    | 15              |
-| (Pa)[../pa]    | 8               |
-| (Dha)[../dha]   | 11              |
-| (Ni)[../ni]    | 13              |
+| [Sa](../sa)    | 6               |
+| [Ri](../ri)    | 7               |
+| [Ga](../ga)    | 11              |
+| [Ma](../ma)    | 15              |
+| [Pa](../pa)    | 8               |
+| [Dha](../dha)   | 11              |
+| [Ni](../ni)    | 13              |
