@@ -21,70 +21,52 @@ An example from each cluster, please explore the folders above for more examples
 
 d2sd2s
 
-<img src="cluster_0/raksha_bettare_400.png" alt="sa cluster 0" />
-*Example from Raksha Bettare performed by Shruthi S. Bhat*
-
-<audio controls>
-  <source src="cluster_0/raksha_bettare_400.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+<div align="left">
+  <img src="cluster_0/raksha_bettare_400.png" alt="sa cluster 0" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
 
 ### Cluster 1
 
 p_s
 
-<img src="cluster_1/raksha_bettare_61.png" alt="sa cluster 1" />
-*Example from Raksha Bettare performed by Shruthi S. Bhat*
-
-<audio controls>
-  <source src="cluster_1/raksha_bettare_61.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+<div align="left">
+  <img src="cluster_1/raksha_bettare_61.png" alt="sa cluster 1" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
 
 ### Cluster 2
 
 sd2s_
 
-<img src="cluster_2/raksha_bettare_17.png" alt="sa cluster 2" />
-*Example from Raksha Bettare performed by Shruthi S. Bhat*
-
-<audio controls>
-  <source src="cluster_2/raksha_bettare_17.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+<div align="left">
+  <img src="cluster_2/raksha_bettare_17.png" alt="sa cluster 2" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+</div>
 
 ### Cluster 3
 
 (r)s
 
-<img src="cluster_3/kamakshi_1010.png" alt="sa cluster 3" />
-*Example from Kamakshi performed by Sanjay Subrahmanyan*
-
-<audio controls>
-  <source src="cluster_3/kamakshi_1010.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+<div align="left">
+  <img src="cluster_3/kamakshi_1010.png" alt="sa cluster 3" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
 
 ### Cluster 4
 
 s: long and short static sa
 
-<img src="cluster_4/kamakshi_100.png" alt="sa cluster 4" />
-*Example from Kamakshi performed by Sanjay Subrahmanyan*
-
-<audio controls>
-  <source src="cluster_4/kamakshi_100.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+<div align="left">
+  <img src="cluster_4/kamakshi_100.png" alt="sa cluster 4" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
 
 ### Cluster 5
 
 s_(d2)
 
-<img src="cluster_5/kamakshi_210.png" alt="sa cluster 5" />
-*Example from Kamakshi performed by Sanjay Subrahmanyan*
-
-<audio controls>
-  <source src="cluster_5/kamakshi_210.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+<div align="left">
+  <img src="cluster_5/kamakshi_210.png" alt="sa cluster 5" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+</div>
