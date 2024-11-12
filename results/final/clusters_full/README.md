@@ -1,6 +1,6 @@
 ## Svara-Form Clusters
 
-Navigate to cluster folders: [sa](../sa), [ri](../ri), [ga](../ga), [ma](../ma), [pa](../pa), [dha](../dha), [ni](../ni)
+Navigate to cluster folders: [sa](./sa), [ri](./ri), [ga](./ga), [ma](./ma), [pa](./pa), [dha](./dha), [ni](./ni)
 
 In this folder you will find the pitch plots and audios corresponding to each of the svara-form clusters. Clusters are organised by svara, each nested svara folder contains the cluster allocations and cluster description in an accompanying README.
 
