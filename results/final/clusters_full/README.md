@@ -13,3 +13,6 @@ In this folder you will find the pitch plots and audios corresponding to each of
 | [Pa](./pa)    | 8               |
 | [Dha](./dha)   | 11              |
 | [Ni](./ni)    | 13              |
+
+
+The full data dictionary of cluster notes is available in tsv format [here](../svara_forms_data_dictionary.tsv)

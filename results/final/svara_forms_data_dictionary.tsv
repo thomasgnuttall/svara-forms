@@ -1,0 +1,72 @@
+svara	cluster	svara form	notes
+dha	cluster_0	psd2	two examples have a slight variation: pd2sd2
+dha	cluster_1	d2pd2	
+dha	cluster_2	spd1 	some examples do not quite reach pa before moving to d1
+dha	cluster_3	d2	
+dha	cluster_4	d1	
+dha	cluster_5	p_d1: long pa at start and short d1 at end	
+dha	cluster_6	pd2: long or short pa at start, and short d2 at end	
+dha	cluster_7	d1pd1 or p_d1: short dp or pa at start and long d1 at end	
+dha	cluster_8	p: static	
+dha	cluster_9	d1: with a "shaking" movement	
+dha	cluster_10	sd1: long slide up (jaru) from sa below	
+ga	cluster_0	sdg 	
+ga	cluster_1	s_m: long sa and thrown up at the end	
+ga	cluster_2	rg	
+ga	cluster_3	r_mrmrm	
+ga	cluster_4	rmrmrmr	
+ga	cluster_5	mrmr(p)	
+ga	cluster_6	rmrmr	
+ga	cluster_7	mg_(m)	the last ma is sometimes seen in the pitch curve and sometimes not, but they all sound the same
+ga	cluster_8	pmg(p)	the last pa or flick up is sometimes seen in the pitch curve and sometimes not, but they all sound the same
+ga	cluster_9	rmr	
+ga	cluster_10	m_r: long ma and short ri	
+ma	cluster_0	pgpgpgpg	
+ma	cluster_1	m_n: long ma with short ni at end	
+ma	cluster_2	mr(p) or mr(m)	the flick up to ma or pa at the end is sometimes seen in the pitch curve and sometimes not, but all are audible
+ma	cluster_3	mrpm	
+ma	cluster_4	m with shake	
+ma	cluster_5	pdpmm	
+ma	cluster_6	pm(n)	the flick up at the end is sometimes seen in the pitch curve and sometimes not, but all are audible
+ma	cluster_7	pdm	
+ma	cluster_8	dpdm	
+ma	cluster_9	m: static	
+ma	cluster_10	pm	
+ma	cluster_11	m_r: long ma and drop to ri at the end	
+ma	cluster_12	pmpmn	
+ma	cluster_13	d_(m)	
+ma	cluster_14	pgp	
+ni	cluster_0	p_n	
+ni	cluster_1	r_(n) and r(n)	the drop down to ni at the end is sometimes not seen in the pitch curve, but all are audible
+ni	cluster_2	d2_(r)	
+ni	cluster_3	s_d2 	
+ni	cluster_4	d2sd2s	
+ni	cluster_5	rsd2s	
+ni	cluster_6	sd2s	
+ni	cluster_7	d2sd2sd2 and d2sd2sd2sd2	
+ni	cluster_8	srD2(s) and srsD2s	
+ni	cluster_9	d2_(s)	the flick up to sa is often not seen in the pitch plots, but it is audible
+ni	cluster_10	d2sd2	
+ni	cluster_11	sd2r	
+ni	cluster_12	d2sn_sd2	
+pa	cluster_0	mrp	
+pa	cluster_1	sp_: slide up to pa from sa	
+pa	cluster_2	pmp: sometimes goes a bit lower than ma	
+pa	cluster_3	p_n	
+pa	cluster_4	sp: slide down from sa to pa	
+pa	cluster_5	d1mp	
+pa	cluster_6	d1p	
+pa	cluster_7	p	
+ri	cluster_0	(d2)sd2r: sometimes higher at the end	
+ri	cluster_1	r_(g)	
+ri	cluster_2	gsr_	
+ri	cluster_3	grg	
+ri	cluster_4	(m)r or (g)r:  long or short ri at end	
+ri	cluster_5	r_(s)	the drop down to sa at the end is seen in the pitch curve to variable degrees but they all sound similar
+ri	cluster_6	r	some of the examples with longer duration have quite a bit of vibrato and could potentially be categorized as a different svara-form; they are not separated here because they exist more on a continuum than as separable categories. 
+sa	cluster_0	d2sd2s	
+sa	cluster_1	p_s	
+sa	cluster_2	sd2s_	
+sa	cluster_3	(r)s	
+sa	cluster_4	s: long and short static sa	
+sa	cluster_5	s_(d2)	
