@@ -31,5 +31,5 @@ A further README is found in that directory with more detailed instructions and 
 
 The final svara-form clusters are available in [results/final/clusters_full/](results/final/clusters_full/). That folder contains more information on the groupings and notes describing them from a Carnatic musicological perspective.
 
-The full data dictionary with all cluster notes is available in tsv format [here](../../svara_forms_data_dictionary.tsv)
+The full data dictionary with all cluster notes is available in tsv format [here](results/final/svara_forms_data_dictionary.tsv)
 
