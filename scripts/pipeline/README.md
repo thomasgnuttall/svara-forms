@@ -27,7 +27,7 @@ The scripts should be ran in order from the [home directory](https://github.com/
 
 ### Melodic Context
 
-We ask whether the performance of a svara (its svara-form) is influenced by its surrounding melodic context, and whether that influence increases as the melodic context increases. As in [10], we compute the normalized mutual information (NMI) between svara-form group label and a series of contextual tokens extracted for each svara observation to illustrate this dependency. An NMI value of 0 indicates that the context tokens and group allocations are completely independent, and a value of 1 indicates that they are perfectly correlated.
+We ask whether the performance of a svara (its svara-form) is influenced by its surrounding melodic context, and whether that influence increases as the melodic context increases. We compute the normalized mutual information (NMI) between svara-form group label and a series of contextual tokens extracted for each svara observation to illustrate this dependency. An NMI value of 0 indicates that the context tokens and group allocations are completely independent, and a value of 1 indicates that they are perfectly correlated.
 
 <div align="left">
   <img src="../../results/final/analysis/NMI_FULL.png" alt="Melodic Context Results" />
