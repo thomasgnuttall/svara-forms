@@ -14,7 +14,7 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_5   | pd1pmm                                  | The dha is often sung higher than d1, and the pitch extraction does not effectively capture the rapid repeated ma at the end |
 | cluster_6   | pm(n)                                  | the flick up at the end is sometimes seen in the pitch curve and sometimes not, but all are audible             |
 | cluster_7   | pd1m                                    |                                                                                                                 |
-| cluster_8   | dpdm                                   |                                                                                                                 |
+| cluster_8   | d1pd1m                                   |                                                                                                                 |
 | cluster_9   | m: static                              |                                                                                                                 |
 | cluster_10  | pm                                     |                                                                                                                 |
 | cluster_11  | m_r: long ma and drop to ri at the end |                                                                                                                 |
