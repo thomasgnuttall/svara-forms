@@ -11,15 +11,15 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_2   | mr(p) or mr(m)                         | the flick up to ma or pa at the end is sometimes seen in the pitch curve and sometimes not, but all are audible |
 | cluster_3   | mrpm                                   |                                                                                                                 |
 | cluster_4   | m with shake                           |                                                                                                                 |
-| cluster_5   | pdpmm                                  |                                                                                                                 |
+| cluster_5   | pd1pmm                                  | The dha is often sung higher than d1, and the pitch extraction does not effectively capture the rapid repeated ma at the end |
 | cluster_6   | pm(n)                                  | the flick up at the end is sometimes seen in the pitch curve and sometimes not, but all are audible             |
-| cluster_7   | pdm                                    |                                                                                                                 |
+| cluster_7   | pd1m                                    |                                                                                                                 |
 | cluster_8   | dpdm                                   |                                                                                                                 |
 | cluster_9   | m: static                              |                                                                                                                 |
 | cluster_10  | pm                                     |                                                                                                                 |
 | cluster_11  | m_r: long ma and drop to ri at the end |                                                                                                                 |
 | cluster_12  | pmpmn                                  |                                                                                                                 |
-| cluster_13  | d_(m)                                  |                                                                                                                 |
+| cluster_13  |  d1_(m)                                  |                                                                                                                 |
 | cluster_14  | pgp                                    |                                                                                                                 |
 The full data dictionary of cluster notes is available in tsv format [here](../../svara_forms_data_dictionary.tsv)
 
@@ -74,7 +74,7 @@ m with shake
 
 ### Cluster 5
 
-pdpmm
+pd1pmm. The dha is often sung higher than d1, and the pitch extraction does not effectively capture the rapid repeated ma at the end.
 
 <div align="left">
   <img src="cluster_5/kamakshi_1138.png" alt="ma cluster 5" />
@@ -87,13 +87,13 @@ pdpmm
 pm(n). The flick up at the end is sometimes seen in the pitch curve and sometimes not, but all are audible
 
 <div align="left">
-  <img src="cluster_6/kamakshi_1020.png" alt="ma cluster 6" />
+  <img src="cluster_6/kamakshi_509.png" alt="ma cluster 6" />
   <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 
 ### Cluster 7
 
-pdm
+pd1m
 
 <div align="left">
   <img src="cluster_7/raksha_bettare_36.png" alt="ma cluster 7" />
@@ -102,7 +102,7 @@ pdm
 
 ### Cluster 8
 
-dpdm
+d1pd1m
 
 <div align="left">
   <img src="cluster_8/kamakshi_427.png" alt="ma cluster 8" />
@@ -135,7 +135,7 @@ pm
 m_r: long ma and drop to ri at the end
 
 <div align="left">
-  <img src="cluster_11/raksha_bettare_21.png" alt="ma cluster 11" />
+  <img src="cluster_11/raksha_bettare_79.png" alt="ma cluster 11" />
   <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
 </div>
 
@@ -152,7 +152,7 @@ pmpmn
 
 ### Cluster 13
 
-d_(m)	
+ d1_(m)
 
 <div align="left">
   <img src="cluster_13/kamakshi_1373.png" alt="ma cluster 13" />

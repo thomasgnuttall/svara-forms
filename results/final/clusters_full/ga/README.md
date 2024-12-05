@@ -16,7 +16,7 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_7   | mg_(m)                                | the last ma is sometimes seen in the pitch curve and sometimes not, but they all sound the same             |
 | cluster_8   | pmg(p)                                | the last pa or flick up is sometimes seen in the pitch curve and sometimes not, but they all sound the same |
 | cluster_9   | rmr                                   |                                                                                                             |
-| cluster_10  | m_r: long ma and short ri             |                                                                                                             |
+| cluster_10  | m_r: longer ma and shorter ri             |                                                                                                             |
 
 The full data dictionary of cluster notes is available in tsv format [here](../../svara_forms_data_dictionary.tsv)
 
@@ -93,7 +93,7 @@ rmrmr
 mg_(m). The last ma is sometimes seen in the pitch curve and sometimes not, but they all sound the same
 
 <div align="left">
-  <img src="cluster_7/kamakshi_1021.png" alt="ga cluster 7" />
+  <img src="cluster_7/kamakshi_368.png" alt="ga cluster 7" />
   <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 
@@ -102,8 +102,8 @@ mg_(m). The last ma is sometimes seen in the pitch curve and sometimes not, but 
 pmg(p). The last pa or flick up is sometimes seen in the pitch curve and sometimes not, but they all sound the same.
 
 <div align="left">
-  <img src="cluster_8/kamakshi_1105.png" alt="ga cluster 8" />
-  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+  <img src="cluster_8/raksha_bettare_355.png" alt="ga cluster 8" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
 </div>
 
 
@@ -112,17 +112,17 @@ pmg(p). The last pa or flick up is sometimes seen in the pitch curve and sometim
 rmr
 
 <div align="left">
-  <img src="cluster_9/raksha_bettare_58.png" alt="ga cluster 9" />
-  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+  <img src="cluster_9/kamakshi_78.png" alt="ga cluster 9" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 
 
 ### Cluster 10
 
-m_r: long ma and short ri	
+m_r: longer ma and shorter ri
 
 <div align="left">
-  <img src="cluster_10/kamakshi_1324.png" alt="ga cluster 10" />
+  <img src="cluster_10/kamakshi_943.png" alt="ga cluster 10" />
   <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 

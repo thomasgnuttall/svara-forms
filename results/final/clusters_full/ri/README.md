@@ -80,8 +80,8 @@ r_(s). The drop down to sa at the end is seen in the pitch curve to variable deg
 r. Some of the examples with longer duration have quite a bit of vibrato and could potentially be categorized as a different svara-form; they are not separated here because they exist more on a continuum than as separable categories.
 
 <div align="left">
-  <img src="cluster_6/kamakshi_113.png" alt="ri cluster 5" />
-  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
+  <img src="cluster_6/raksha_bettare_18.png" alt="ri cluster 5" />
+  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
 </div>
 
 

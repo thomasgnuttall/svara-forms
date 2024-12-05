@@ -70,6 +70,6 @@ s: long and short static sa
 s_(d2)
 
 <div align="left">
-  <img src="cluster_5/kamakshi_210.png" alt="sa cluster 5" />
+  <img src="cluster_5/kamakshi_1521.png" alt="sa cluster 5" />
   <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>

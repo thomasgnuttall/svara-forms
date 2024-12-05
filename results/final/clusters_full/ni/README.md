@@ -9,12 +9,12 @@ The descriptions below describe the melodic movement of the svara-form in terms 
 | cluster_0   | p_n                      |                                                                                              |
 | cluster_1   | r_(n) and r(n)           | the drop down to ni at the end is sometimes not seen in the pitch curve, but all are audible |
 | cluster_2   | d2_(r)                   |                                                                                              |
-| cluster_3   | s_d2                     |                                                                                              |
+| cluster_3   | sd2                     |                                                                                              |
 | cluster_4   | d2sd2s                   |                                                                                              |
 | cluster_5   | rsd2s                    |                                                                                              |
 | cluster_6   | sd2s                     |                                                                                              |
 | cluster_7   | d2sd2sd2 and d2sd2sd2sd2 |                                                                                              |
-| cluster_8   | srD2(s) and srsD2s       |                                                                                              |
+| cluster_8   | srd2(s) and srsd2(s)       |                                                                                              |
 | cluster_9   | d2_(s)                   | the flick up to sa is often not seen in the pitch plots, but it is audible                   |
 | cluster_10  | d2sd2                    |                                                                                              |
 | cluster_11  | sd2r                     |                                                                                              |
@@ -40,8 +40,8 @@ p_n
 r_(n) and r(n).	The drop down to ni at the end is sometimes not seen in the pitch curve, but all are audible.
 
 <div align="left">
-  <img src="cluster_1/raksha_bettare_107.png" alt="ni cluster 1" />
-  <p><em>Example from Raksha Bettare performed by Shruthi S. Bhat</em></p>
+  <img src="cluster_1/kamakshi_253.png" alt="ni cluster 1" />
+  <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 
 ### Cluster 2
@@ -55,7 +55,7 @@ d2_(r)
 
 ### Cluster 3
 
-s_d2
+sd2
 
 <div align="left">
   <img src="cluster_3/raksha_bettare_160.png" alt="ni cluster 3" />
@@ -95,13 +95,13 @@ sd2s
 d2sd2sd2 and d2sd2sd2sd2
 
 <div align="left">
-  <img src="cluster_7/kamakshi_178.png" alt="ni cluster 7" />
+  <img src="cluster_7/kamakshi_8.png" alt="ni cluster 7" />
   <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 
 ### Cluster 8
 
-srD2(s) and srsD2s	
+srd2(s) and srsd2(s)
 
 <div align="left">
   <img src="cluster_8/kamakshi_1082.png" alt="ni cluster 8" />

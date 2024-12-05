@@ -35,7 +35,7 @@ mrp
 sp_: slide up to pa from sa	
 
 <div align="left">
-  <img src="cluster_1/kamakshi_1222.png" alt="pa cluster 1" />
+  <img src="cluster_1/kamakshi_332.png" alt="pa cluster 1" />
   <p><em>Example from Kamakshi performed by Sanjay Subrahmanyan</em></p>
 </div>
 

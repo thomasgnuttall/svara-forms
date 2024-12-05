@@ -20,31 +20,31 @@ ga	cluster_6	rmrmr
 ga	cluster_7	mg_(m)	the last ma is sometimes seen in the pitch curve and sometimes not, but they all sound the same
 ga	cluster_8	pmg(p)	the last pa or flick up is sometimes seen in the pitch curve and sometimes not, but they all sound the same
 ga	cluster_9	rmr	
-ga	cluster_10	m_r: long ma and short ri	
+ga	cluster_10	m_r: longer ma and shorter ri	
 ma	cluster_0	pgpgpgpg	
 ma	cluster_1	m_n: long ma with short ni at end	
 ma	cluster_2	mr(p) or mr(m)	the flick up to ma or pa at the end is sometimes seen in the pitch curve and sometimes not, but all are audible
 ma	cluster_3	mrpm	
 ma	cluster_4	m with shake	
-ma	cluster_5	pdpmm	
+ma	cluster_5	pd1pmm	The dha is often sung higher than d1, and the pitch extraction does not effectively capture the rapid repeated ma at the end.	
 ma	cluster_6	pm(n)	the flick up at the end is sometimes seen in the pitch curve and sometimes not, but all are audible
-ma	cluster_7	pdm	
-ma	cluster_8	dpdm	
+ma	cluster_7	pd1m	
+ma	cluster_8	d1pd1m	
 ma	cluster_9	m: static	
 ma	cluster_10	pm	
 ma	cluster_11	m_r: long ma and drop to ri at the end	
 ma	cluster_12	pmpmn	
-ma	cluster_13	d_(m)	
+ma	cluster_13	d1_(m)	
 ma	cluster_14	pgp	
 ni	cluster_0	p_n	
 ni	cluster_1	r_(n) and r(n)	the drop down to ni at the end is sometimes not seen in the pitch curve, but all are audible
 ni	cluster_2	d2_(r)	
-ni	cluster_3	s_d2 	
+ni	cluster_3	sd2 	
 ni	cluster_4	d2sd2s	
 ni	cluster_5	rsd2s	
 ni	cluster_6	sd2s	
 ni	cluster_7	d2sd2sd2 and d2sd2sd2sd2	
-ni	cluster_8	srD2(s) and srsD2s	
+ni	cluster_8	srd2(s) and srsd2(s)	
 ni	cluster_9	d2_(s)	the flick up to sa is often not seen in the pitch plots, but it is audible
 ni	cluster_10	d2sd2	
 ni	cluster_11	sd2r	
