@@ -99,7 +99,7 @@ d1pd1 or p_d1: short dp or pa at start and long d1 at end
 
 ### Cluster 8
 
-p: static	
+p: almost static but with either a narrow oscillation or moving slightly upwards towards the end
 
 <div align="left">
   <img src="cluster_8/kamakshi_1375.png" alt="dha cluster 8" />
