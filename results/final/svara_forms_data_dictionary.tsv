@@ -7,7 +7,7 @@ dha	cluster_4	d1
 dha	cluster_5	p_d1: long pa at start and short d1 at end	
 dha	cluster_6	pd2: long or short pa at start, and short d2 at end	
 dha	cluster_7	d1pd1 or p_d1: short dp or pa at start and long d1 at end	
-dha	cluster_8	p: static	
+dha	cluster_8	p: almost static but with either a narrow oscillation or moving slightly upwards towards the end
 dha	cluster_9	d1: with a "shaking" movement	
 dha	cluster_10	sd1: long slide up (jaru) from sa below	
 ga	cluster_0	sdg 	
